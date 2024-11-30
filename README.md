@@ -1,6 +1,8 @@
 # blmer
 Fit Bayesian Linear and generalized linear Mixed-Effects models Use blmer (blme) With (In) R Software
 
+https://www.youtube.com/watch?v=UyfG4oSGh8g
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
